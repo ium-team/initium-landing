@@ -2,7 +2,7 @@
 
 [🇰🇷 한국어](./README-ko.md)
 
-Modern SaaS Landing Page Template - React + TypeScript + Vite
+Official landing page for Initium
 
 ![React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript)
@@ -95,11 +95,3 @@ Modify the `brand` colors in your Tailwind CSS configuration.
 
 ### Edit Text Content
 All text content is managed in `contexts/LanguageContext.tsx` for both English and Korean.
-
-## 📄 License
-
-MIT License
-
----
-
-Made with ❤️ using React + Vite

@@ -2,7 +2,7 @@
 
 [🇺🇸 English](./README.md)
 
-모던 SaaS 랜딩 페이지 템플릿 - React + TypeScript + Vite
+Initium 공식 랜딩 페이지
 
 ![React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript)
@@ -95,11 +95,3 @@ Tailwind CSS 설정에서 `brand` 색상을 수정하세요.
 
 ### 텍스트 수정
 `contexts/LanguageContext.tsx`에서 모든 텍스트를 한국어/영어로 관리합니다.
-
-## 📄 라이선스
-
-MIT License
-
----
-
-Made with ❤️ using React + Vite
